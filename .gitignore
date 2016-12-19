@@ -1,0 +1,21 @@
+### Java template
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+
+hs_err_pid*
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.iws
+*.ipr
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
